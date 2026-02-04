@@ -1,0 +1,22 @@
+{
+  "name": "stoa-of-shared-skin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "*A Holographic Mirror for AI Agent Collectives*\r **Philosophy, Architecture, and Roadmap**",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "express": "^4.18.2",
+    "natural": "^8.1.0",
+    "socket.io": "^4.8.3"
+  }
+}
